@@ -1,0 +1,21 @@
+﻿Team: O-Vac
+Date: 1/17/2017
+Week: 1
+
+Part 1: What were you assigned that week? What did you work on?
+
+        For the first week each individual team member wasn’t assigned a specific task, the team focused on getting in contact with Russ, getting room access, requesting the proper workstations, getting in contact with people about getting the hardware from the project and talking to a professor about micro-controllers. Aaron did work on doing researching on waterproofing and the effects of deep sea pressure on O-rings, Garrett Stoll built a basic website for the team, Garrett Ding created the github repository and Josh Gutterman co-ordinated with MBARI and Steve .
+
+
+Part 2: Did you do it? How?
+
+        Garrett S. scheduled a time to meet with Professor Gabriel Elkaim to discuss the scope and goals of the project, as well as what the project currently looks like. The entire team met with Prof Elkaim on Friday, January 13,2017. He made several suggestions, advising us to do some redesigning of the mechanisms as well as a better enclosure for our electronics. Additionally, we were most interested in what he would say about micro-controllers, he advised us to use the PIC32, with the primary justification being the need for rapid prototyping which prioritizes our time and getting off the ground running. Elkaim also stressed the need to make the device dummy proof and to reduce the amount of moving parts that the researchers will have to move. 
+
+Part 3: Major Obstacles of the week.
+
+        The major obstacle of the week was MBARI postponing our visit to Feb 1st (pending) we had planned to ask many questions on waterproofing and how they managed the electrical and pneumatic connections for their robots underwater. Postponing this meeting set us back quite a bit but we will have to ask Steve to get us in contact with someone knowledgeable on at least waterproofing at >100ft depths. 
+
+Part 4: Tasks to do next week.
+
+
+        We should have the enclosure this week and should be testing the power needs of the solenoids, so we should have a rough power budget. We should also look at what does need to be redesigned, why it needs to be redesigned and have various sketches. We should also look at various funding methods and compile a generic application that we can just modify to cater to different grants.
